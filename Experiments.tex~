@@ -1,0 +1,281 @@
+% Created 2014-08-01 Fri 17:04
+\documentclass[11pt]{article}
+\usepackage[AUTO]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{soul}
+\usepackage{textcomp}
+\usepackage{marvosym}
+\usepackage{wasysym}
+\usepackage{latexsym}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\tolerance=1000
+\providecommand{\alert}[1]{\textbf{#1}}
+
+\title{Experimetns -*- mode: org -*-}
+\author{Tejaswinee Kelkar}
+\date{\today}
+\hypersetup{
+  pdfkeywords={},
+  pdfsubject={},
+  pdfcreator={Emacs Org-mode version 7.9.3f}}
+
+\begin{document}
+
+\maketitle
+
+\setcounter{tocdepth}{3}
+\tableofcontents
+\vspace*{1cm}
+
+\section{Experiments}
+\label{sec-1}
+\subsection{Expt 1 Pitch discrimination}
+\label{sec-1-1}
+\subsubsection{Description:}
+\label{sec-1-1-1}
+
+This experiment will focus on students being able to distinguish
+between two pitches that are played consecutively. The students will
+only to answer whether the two pitches played are the same or
+different.
+\subsubsection{Skills:}
+\label{sec-1-1-2}
+
+Before being able to train the ear for identifying pitches, this
+simple experiment will help students distinguish between pitches that
+are far apart and the ones that are spaced nearer to each other.
+\subsubsection{Levels:}
+\label{sec-1-1-3}
+\subsection{Expt 2 Pitch Direction}
+\label{sec-1-2}
+\subsubsection{Description:}
+\label{sec-1-2-1}
+
+This subsequent experiment focuses on being able to identify the
+direction of difference of the given pitches. After the student is
+comfortable telling two tones apart, this experiment will help them
+understand whether the subsequent tone is lower or higher than the
+first.
+\subsubsection{Levels:}
+\label{sec-1-2-2}
+\subsection{Expt 2.5 What are notes?}
+\label{sec-1-3}
+\subsubsection{Description:}
+\label{sec-1-3-1}
+
+This experiment will explain the concept of notes and
+octaves. Students will learn to identify octaves and figure out how
+notes played in a row sound. Different instruments can be used to
+elaborate this. For vocalists, this may include clicking on the names
+of svaras / intervals and then listening to them. Students will also
+be able to play notes as scales with note names to familiarize with
+the concept of naming notes.
+\subsubsection{Skills:}
+\label{sec-1-3-2}
+
+Before we move to interval identification, this experiment is a free
+exploration of musical hearing.
+\subsubsection{Levels:}
+\label{sec-1-3-3}
+\begin{itemize}
+
+\item 1. Free exploration with instrument and note names
+\label{sec-1-3-3-1}%
+
+\item 2. Free exploration hearing different scales and note sequences\\
+\label{sec-1-3-3-2}%
+\end{itemize} % ends low level
+\subsection{Expt 3 Pitch identification from same tonic}
+\label{sec-1-4}
+\subsubsection{Description:}
+\label{sec-1-4-1}
+
+Here we start to move to interval hearing and tone training. 
+\subsubsection{Skills:}
+\label{sec-1-4-2}
+
+Before being able to train the ear for identifying pitches, this
+simple experiment will help students distinguish between 
+\subsubsection{Levels:}
+\label{sec-1-4-3}
+
+
+\begin{enumerate}
+\item Levels
+\begin{enumerate}
+\item Level 1: Sa, Ma, Pa
+\item Level 2: + Ga, Ni
+\item Level 3: + Re, Dha
+\item Level 4: All Shuddha Notes
+\item Level 5: + Re Dha Komal
+\item Level 6: + Ga Ni Komal
+\item Level 7: + Tivra Ma
+\item Level 8: All notes
+\end{enumerate}
+\item Number of Questions
+\end{enumerate}
+\subsection{Expt 4 Pitch identification from separate tonic}
+\label{sec-1-5}
+\subsubsection{Description:}
+\label{sec-1-5-1}
+
+While the tanpura is playing in another key, a different reference
+note will be given to judge another pitch interval from.
+\subsubsection{Skills:}
+\label{sec-1-5-2}
+
+This experiment is to build hearing independence outside the tonic, as may be required in some forms of light classical singing.
+\subsection{Expt 5 Identifying a chain of pitches}
+\label{sec-1-6}
+\subsubsection{Description:}
+\label{sec-1-6-1}
+
+In this experiment, the experimenter will have to name the notes in a row of pitches in a single tonic.
+\subsubsection{Skills:}
+\label{sec-1-6-2}
+
+This experiment will decelop the knowledge of `svar-sthan' in the users.
+\subsubsection{Levels:}
+\label{sec-1-6-3}
+
+
+\begin{enumerate}
+\item Levels
+\item Number of Questions per level
+\end{enumerate}
+     
+\subsection{Expt 6 Tabla Simulation}
+\label{sec-1-7}
+\subsubsection{Description:}
+\label{sec-1-7-1}
+
+The goal of this experiment is to simulate a tabla skin on a computer,
+and choose and handshape, and simulate the sounds that a tabla makes
+if it is struck at different points.
+\subsubsection{Skills:}
+\label{sec-1-7-2}
+
+Understanding tabla bols also requires an understanding of how it is
+played on the skin membrane. This experiment will help people who
+don't have access to tablas to explore the instrument in detail.
+\subsubsection{Levels:}
+\label{sec-1-7-3}
+
+
+\begin{enumerate}
+\item Hearing bol and location of playing
+\item Composing new taals
+\end{enumerate}
+     
+\subsection{Expt 7 Khali and Taali}
+\label{sec-1-8}
+\subsubsection{Description:}
+\label{sec-1-8-1}
+
+This experiment is to explain the polarity between these two events in
+Taal. The rhythmic and motional feeling of a downbeat and an upbeat
+will be explained. Participants will get to freely explore and listen
+to tabla sounds, and figure out the presence of khali and tali in the taals.
+\subsubsection{Skills:}
+\label{sec-1-8-2}
+\subsubsection{Levels:}
+\label{sec-1-8-3}
+
+
+\begin{enumerate}
+\item Analyzing khali and taali in visual form
+\item Building larger metrical structures for khali and tali
+\item Splitting These structures into different laya combinations - aad, kuaad, bayaad
+\end{enumerate}
+\subsection{Expt 8 Phrase hearing}
+\label{sec-1-9}
+\subsubsection{Description:}
+\label{sec-1-9-1}
+
+In this experiment, students will be able to distinguish between
+different phrases. There are 4 kinds of basic phrases in HCM. The
+participants will be expected to categorize each phrase in any of
+these four types, and in the next level compose phrases belonging to
+these types.
+\subsubsection{Levels:}
+\label{sec-1-9-2}
+
+
+\begin{enumerate}
+\item Differentiating between different types of phrases
+\item Creating phrases having different envelopes
+\end{enumerate}
+\subsection{Expt 9 Intonation}
+\label{sec-1-10}
+\subsubsection{Description:}
+\label{sec-1-10-1}
+
+
+\begin{enumerate}
+\item Hearing different kinds of intonation
+\end{enumerate}
+   
+
+      
+\subsection{Expt 10 Tuning a Tanpura}
+\label{sec-1-11}
+\subsubsection{Description:}
+\label{sec-1-11-1}
+
+\begin{enumerate}
+\item Two tanpuras, one fixed, cranking the other one up / down
+\end{enumerate}
+\subsubsection{Levels:}
+\label{sec-1-11-2}
+
+   Tuning to the same tone
+   Tuning to an Octave
+   Tuning to a Fifth
+     
+\subsection{Expt 11 Singing and melograph plotting}
+\label{sec-1-12}
+\subsubsection{Description:}
+\label{sec-1-12-1}
+
+Dynamic capture of musical voice and generation of melographs dynamically with 
+\subsubsection{Skills:}
+\label{sec-1-12-2}
+
+Melographs are a visual representation of the sung music. This
+experiment will help people familiarize themselves with a visual
+scheme to understand music. This scheme will be taken forwards
+\subsubsection{Levels:}
+\label{sec-1-12-3}
+
+
+\begin{enumerate}
+\item Matching own melograph with template melographs
+\item Difference measure for melographs
+\end{enumerate}
+\section{Appendix}
+\label{sec-2}
+\subsection{Export drones for 6 seconds in all 12 keys}
+\label{sec-2-1}
+\subsection{Instruments:}
+\label{sec-2-2}
+
+\begin{enumerate}
+\item Flute
+\item Sitar
+\item Sarod
+\item Santoor
+\item Sarangi
+\item Violin
+\item Shehnai
+\item Veena
+\item Voice-Male
+\item Voice-Female
+\end{enumerate}
+
+\end{document}

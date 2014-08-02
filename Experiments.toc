@@ -1,0 +1,46 @@
+\contentsline {section}{\numberline {1}Experiments}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Expt 1 Pitch discrimination}{2}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}Description:}{2}{subsubsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.2}Skills:}{2}{subsubsection.1.1.2}
+\contentsline {subsubsection}{\numberline {1.1.3}Levels:}{3}{subsubsection.1.1.3}
+\contentsline {subsection}{\numberline {1.2}Expt 2 Pitch Direction}{3}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}Description:}{3}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}Levels:}{3}{subsubsection.1.2.2}
+\contentsline {subsection}{\numberline {1.3}Expt 2.5 What are notes?}{3}{subsection.1.3}
+\contentsline {subsubsection}{\numberline {1.3.1}Description:}{3}{subsubsection.1.3.1}
+\contentsline {subsubsection}{\numberline {1.3.2}Skills:}{3}{subsubsection.1.3.2}
+\contentsline {subsubsection}{\numberline {1.3.3}Levels:}{3}{subsubsection.1.3.3}
+\contentsline {subsection}{\numberline {1.4}Expt 3 Pitch identification from same tonic}{3}{subsection.1.4}
+\contentsline {subsubsection}{\numberline {1.4.1}Description:}{3}{subsubsection.1.4.1}
+\contentsline {subsubsection}{\numberline {1.4.2}Skills:}{4}{subsubsection.1.4.2}
+\contentsline {subsubsection}{\numberline {1.4.3}Levels:}{4}{subsubsection.1.4.3}
+\contentsline {subsection}{\numberline {1.5}Expt 4 Pitch identification from separate tonic}{4}{subsection.1.5}
+\contentsline {subsubsection}{\numberline {1.5.1}Description:}{4}{subsubsection.1.5.1}
+\contentsline {subsubsection}{\numberline {1.5.2}Skills:}{4}{subsubsection.1.5.2}
+\contentsline {subsection}{\numberline {1.6}Expt 5 Identifying a chain of pitches}{4}{subsection.1.6}
+\contentsline {subsubsection}{\numberline {1.6.1}Description:}{4}{subsubsection.1.6.1}
+\contentsline {subsubsection}{\numberline {1.6.2}Skills:}{4}{subsubsection.1.6.2}
+\contentsline {subsubsection}{\numberline {1.6.3}Levels:}{5}{subsubsection.1.6.3}
+\contentsline {subsection}{\numberline {1.7}Expt 6 Tabla Simulation}{5}{subsection.1.7}
+\contentsline {subsubsection}{\numberline {1.7.1}Description:}{5}{subsubsection.1.7.1}
+\contentsline {subsubsection}{\numberline {1.7.2}Skills:}{5}{subsubsection.1.7.2}
+\contentsline {subsubsection}{\numberline {1.7.3}Levels:}{5}{subsubsection.1.7.3}
+\contentsline {subsection}{\numberline {1.8}Expt 7 Khali and Taali}{5}{subsection.1.8}
+\contentsline {subsubsection}{\numberline {1.8.1}Description:}{5}{subsubsection.1.8.1}
+\contentsline {subsubsection}{\numberline {1.8.2}Skills:}{5}{subsubsection.1.8.2}
+\contentsline {subsubsection}{\numberline {1.8.3}Levels:}{5}{subsubsection.1.8.3}
+\contentsline {subsection}{\numberline {1.9}Expt 8 Phrase hearing}{6}{subsection.1.9}
+\contentsline {subsubsection}{\numberline {1.9.1}Description:}{6}{subsubsection.1.9.1}
+\contentsline {subsubsection}{\numberline {1.9.2}Levels:}{6}{subsubsection.1.9.2}
+\contentsline {subsection}{\numberline {1.10}Expt 9 Intonation}{6}{subsection.1.10}
+\contentsline {subsubsection}{\numberline {1.10.1}Description:}{6}{subsubsection.1.10.1}
+\contentsline {subsection}{\numberline {1.11}Expt 10 Tuning a Tanpura}{6}{subsection.1.11}
+\contentsline {subsubsection}{\numberline {1.11.1}Description:}{6}{subsubsection.1.11.1}
+\contentsline {subsubsection}{\numberline {1.11.2}Levels:}{6}{subsubsection.1.11.2}
+\contentsline {subsection}{\numberline {1.12}Expt 11 Singing and melograph plotting}{6}{subsection.1.12}
+\contentsline {subsubsection}{\numberline {1.12.1}Description:}{6}{subsubsection.1.12.1}
+\contentsline {subsubsection}{\numberline {1.12.2}Skills:}{6}{subsubsection.1.12.2}
+\contentsline {subsubsection}{\numberline {1.12.3}Levels:}{7}{subsubsection.1.12.3}
+\contentsline {section}{\numberline {2}Appendix}{7}{section.2}
+\contentsline {subsection}{\numberline {2.1}Export drones for 6 seconds in all 12 keys}{7}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Instruments:}{7}{subsection.2.2}
